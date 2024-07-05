@@ -5,7 +5,11 @@ There are unlisted files that serve to process the initial MIDI data (from anoth
 
 # Sample
 The following are links to examples of music generated via the model. (Links to a Google-drive-hosted file).
+
+
 [Sample 1](https://drive.google.com/file/d/14CNJ0cWC30VfKPZe4vEuZjHkPTWkYtZW/view?usp=sharing)
+
+
 [Sample 2](https://drive.google.com/file/d/1qN_QlVZG-RqrbHWberheyeG7jnTuBJ97/view?usp=sharing)
 
 
